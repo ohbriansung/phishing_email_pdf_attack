@@ -99,7 +99,7 @@ Rename the file with _.pⅾf_ extension.
 (Important) The "ⅾ" we are using is not actual English character "d".
 We need to use "ⅾ" which is small roman numeral five hundred (Unicode character U+217E).
 
-![Fake 3](https://raw.githubusercontent.com/ohbriansung/phishing_email_pdf_attack/master/img/fake_3.gif)
+![Fake 3](https://raw.githubusercontent.com/ohbriansung/phishing_email_pdf_attack/master/img/fake_3.png)
 
 ## Demo
 
